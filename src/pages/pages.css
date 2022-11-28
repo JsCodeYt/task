@@ -1,0 +1,22 @@
+.login-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.login-btns {
+    display: flex;
+    gap: 2rem;
+    margin: 40px 0px;
+    justify-content: center;
+}
+
+.login-btns button {
+    border: none;
+    background-color: white;
+    color: #242424;
+    outline: none;
+    cursor: pointer;
+    font-size: 14px;
+}
